@@ -551,6 +551,7 @@ F 1 "IN-12A" H 3450 3800 45  0001 L BNN
 F 2 "nixie-clock:IN-12-Socket" H 3480 3950 20  0001 C CNN
 F 3 "http://www.tube-tester.com/sites/nixie/dat_arch/IN-12A_IN-12B_03.pdf" H 3450 3800 50  0001 C CNN
 F 4 "N/A" H 3450 3800 50  0001 C CNN "Digikey Page"
+F 5 "170V" H 3450 3800 50  0001 C CNN "Rating"
 	1    3450 3800
 	1    0    0    -1  
 $EndComp
@@ -558,11 +559,12 @@ $Comp
 L Device:R_Small R29
 U 1 1 61F79FC9
 P 3450 2650
-F 0 "R29" H 3509 2696 50  0000 L CNN
-F 1 "20k" H 3509 2605 50  0000 L CNN
+F 0 "R29" H 3500 2750 50  0000 L CNN
+F 1 "20k" H 3500 2650 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805" H 3450 2650 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 3450 2650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0720KL/728282" H 3450 2650 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" H 3500 2550 50  0000 L CNN "Rating"
 	1    3450 2650
 	1    0    0    -1  
 $EndComp
@@ -575,6 +577,7 @@ F 1 "ZVP1320F" H 3555 3050 50  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 3555 2959 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ZVP1320F.pdf" H 3350 3050 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/ZVP1320FTA/722416" H 3350 3050 50  0001 C CNN "Digikey Page"
+F 5 "200V 35mA" H 3550 2950 50  0000 L CNN "Rating"
 	1    3350 3050
 	1    0    0    -1  
 $EndComp
@@ -582,11 +585,12 @@ $Comp
 L Transistor_FET:ZVN3320F Q2
 U 1 1 61F79FD7
 P 2550 2950
-F 0 "Q2" V 2799 2950 50  0000 C CNN
-F 1 "ZVN3320F" V 2890 2950 50  0000 C CNN
+F 0 "Q2" V 2800 2950 50  0000 C CNN
+F 1 "ZVN3320F" V 2900 2950 50  0000 C CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 2750 2875 50  0001 L CIN
 F 3 "https://www.diodes.com/assets/Datasheets/ZVN3320F.pdf" H 2550 2950 50  0001 L CNN
 F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/ZVN3320FTA/152481" H 2550 2950 50  0001 C CNN "Digikey Page"
+F 5 "200V 60mA" V 3000 2950 50  0000 C CNN "Rating"
 	1    2550 2950
 	0    1    1    0   
 $EndComp
@@ -594,11 +598,12 @@ $Comp
 L Device:R_Small R28
 U 1 1 61F79FDE
 P 3100 2650
-F 0 "R28" H 3159 2696 50  0000 L CNN
-F 1 "12k" H 3159 2605 50  0000 L CNN
+F 0 "R28" H 3150 2750 50  0000 L CNN
+F 1 "12k" H 3150 2650 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805" H 3100 2650 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 3100 2650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0712KL/728250" H 3100 2650 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" H 3150 2550 50  0000 L CNN "Rating"
 	1    3100 2650
 	1    0    0    -1  
 $EndComp
@@ -611,6 +616,7 @@ F 1 "1M" V 2845 3050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805" H 2950 3050 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 2950 3050 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071ML/727445" H 2950 3050 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" V 3050 3050 50  0000 C CNN "Rating"
 	1    2950 3050
 	0    1    1    0   
 $EndComp
@@ -618,11 +624,12 @@ $Comp
 L Device:R_Small R32
 U 1 1 61F79FEC
 P 5100 2650
-F 0 "R32" H 5159 2696 50  0000 L CNN
-F 1 "20k" H 5159 2605 50  0000 L CNN
+F 0 "R32" H 5150 2750 50  0000 L CNN
+F 1 "20k" H 5150 2650 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805" H 5100 2650 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 5100 2650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0720KL/728282" H 5100 2650 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" H 5150 2550 50  0000 L CNN "Rating"
 	1    5100 2650
 	1    0    0    -1  
 $EndComp
@@ -630,11 +637,12 @@ $Comp
 L Device:Q_PMOS_GSD Q10
 U 1 1 61F79FF3
 P 5000 3050
-F 0 "Q10" H 5204 3096 50  0000 L CNN
-F 1 "ZVP1320F" H 5204 3005 50  0000 L CNN
+F 0 "Q10" H 5200 3150 50  0000 L CNN
+F 1 "ZVP1320F" H 5200 3050 50  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 5200 3150 50  0001 C CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ZVP1320F.pdf" H 5000 3050 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/ZVP1320FTA/722416" H 5000 3050 50  0001 C CNN "Digikey Page"
+F 5 "200V 35mA" H 5200 2950 50  0000 L CNN "Rating"
 	1    5000 3050
 	1    0    0    -1  
 $EndComp
@@ -642,11 +650,12 @@ $Comp
 L Transistor_FET:ZVN3320F Q7
 U 1 1 61F79FFA
 P 4200 2950
-F 0 "Q7" V 4449 2950 50  0000 C CNN
-F 1 "ZVN3320F" V 4540 2950 50  0000 C CNN
+F 0 "Q7" V 4450 2950 50  0000 C CNN
+F 1 "ZVN3320F" V 4550 2950 50  0000 C CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 4400 2875 50  0001 L CIN
 F 3 "https://www.diodes.com/assets/Datasheets/ZVN3320F.pdf" H 4200 2950 50  0001 L CNN
 F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/ZVN3320FTA/152481" H 4200 2950 50  0001 C CNN "Digikey Page"
+F 5 "200V 60mA" V 4650 2950 50  0000 C CNN "Rating"
 	1    4200 2950
 	0    1    1    0   
 $EndComp
@@ -654,11 +663,12 @@ $Comp
 L Device:R_Small R31
 U 1 1 61F7A001
 P 4750 2650
-F 0 "R31" H 4809 2696 50  0000 L CNN
-F 1 "12k" H 4809 2605 50  0000 L CNN
+F 0 "R31" H 4800 2750 50  0000 L CNN
+F 1 "12k" H 4800 2650 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805" H 4750 2650 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 4750 2650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0712KL/728250" H 4750 2650 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" H 4800 2550 50  0000 L CNN "Rating"
 	1    4750 2650
 	1    0    0    -1  
 $EndComp
@@ -671,6 +681,7 @@ F 1 "1M" V 4495 3050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805" H 4600 3050 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 4600 3050 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071ML/727445" H 4600 3050 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" V 4700 3050 50  0000 C CNN "Rating"
 	1    4600 3050
 	0    1    1    0   
 $EndComp
@@ -678,11 +689,12 @@ $Comp
 L Device:R_Small R35
 U 1 1 61F7A00F
 P 6750 2650
-F 0 "R35" H 6809 2696 50  0000 L CNN
-F 1 "20k" H 6809 2605 50  0000 L CNN
+F 0 "R35" H 6800 2750 50  0000 L CNN
+F 1 "20k" H 6800 2650 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805" H 6750 2650 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 6750 2650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0720KL/728282" H 6750 2650 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" H 6800 2550 50  0000 L CNN "Rating"
 	1    6750 2650
 	1    0    0    -1  
 $EndComp
@@ -690,11 +702,12 @@ $Comp
 L Device:Q_PMOS_GSD Q15
 U 1 1 61F7A016
 P 6650 3050
-F 0 "Q15" H 6854 3096 50  0000 L CNN
-F 1 "ZVP1320F" H 6854 3005 50  0000 L CNN
+F 0 "Q15" H 6850 3150 50  0000 L CNN
+F 1 "ZVP1320F" H 6850 3050 50  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 6850 3150 50  0001 C CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ZVP1320F.pdf" H 6650 3050 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/ZVP1320FTA/722416" H 6650 3050 50  0001 C CNN "Digikey Page"
+F 5 "200V 35mA" H 6850 2950 50  0000 L CNN "Rating"
 	1    6650 3050
 	1    0    0    -1  
 $EndComp
@@ -702,11 +715,12 @@ $Comp
 L Transistor_FET:ZVN3320F Q12
 U 1 1 61F7A01D
 P 5850 2950
-F 0 "Q12" V 6099 2950 50  0000 C CNN
-F 1 "ZVN3320F" V 6190 2950 50  0000 C CNN
+F 0 "Q12" V 6100 2950 50  0000 C CNN
+F 1 "ZVN3320F" V 6200 2950 50  0000 C CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 6050 2875 50  0001 L CIN
 F 3 "https://www.diodes.com/assets/Datasheets/ZVN3320F.pdf" H 5850 2950 50  0001 L CNN
 F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/ZVN3320FTA/152481" H 5850 2950 50  0001 C CNN "Digikey Page"
+F 5 "200V 60mA" V 6300 2950 50  0000 C CNN "Rating"
 	1    5850 2950
 	0    1    1    0   
 $EndComp
@@ -714,11 +728,12 @@ $Comp
 L Device:R_Small R34
 U 1 1 61F7A024
 P 6400 2650
-F 0 "R34" H 6459 2696 50  0000 L CNN
-F 1 "12k" H 6459 2605 50  0000 L CNN
+F 0 "R34" H 6450 2750 50  0000 L CNN
+F 1 "12k" H 6450 2650 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805" H 6400 2650 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 6400 2650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0712KL/728250" H 6400 2650 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" H 6450 2550 50  0000 L CNN "Rating"
 	1    6400 2650
 	1    0    0    -1  
 $EndComp
@@ -731,6 +746,7 @@ F 1 "1M" V 6145 3050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805" H 6250 3050 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 6250 3050 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071ML/727445" H 6250 3050 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" V 6350 3050 50  0000 C CNN "Rating"
 	1    6250 3050
 	0    1    1    0   
 $EndComp
@@ -738,11 +754,12 @@ $Comp
 L Device:R_Small R38
 U 1 1 61F7A032
 P 8400 2650
-F 0 "R38" H 8459 2696 50  0000 L CNN
-F 1 "20k" H 8459 2605 50  0000 L CNN
+F 0 "R38" H 8450 2750 50  0000 L CNN
+F 1 "20k" H 8450 2650 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805" H 8400 2650 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 8400 2650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0720KL/728282" H 8400 2650 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" H 8450 2550 50  0000 L CNN "Rating"
 	1    8400 2650
 	1    0    0    -1  
 $EndComp
@@ -750,11 +767,12 @@ $Comp
 L Device:Q_PMOS_GSD Q20
 U 1 1 61F7A039
 P 8300 3050
-F 0 "Q20" H 8504 3096 50  0000 L CNN
-F 1 "ZVP1320F" H 8504 3005 50  0000 L CNN
+F 0 "Q20" H 8500 3150 50  0000 L CNN
+F 1 "ZVP1320F" H 8500 3050 50  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 8500 3150 50  0001 C CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ZVP1320F.pdf" H 8300 3050 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/ZVP1320FTA/722416" H 8300 3050 50  0001 C CNN "Digikey Page"
+F 5 "200V 35mA" H 8500 2950 50  0000 L CNN "Rating"
 	1    8300 3050
 	1    0    0    -1  
 $EndComp
@@ -762,11 +780,12 @@ $Comp
 L Transistor_FET:ZVN3320F Q18
 U 1 1 61F7A040
 P 7500 2950
-F 0 "Q18" V 7749 2950 50  0000 C CNN
-F 1 "ZVN3320F" V 7840 2950 50  0000 C CNN
+F 0 "Q18" V 7750 2950 50  0000 C CNN
+F 1 "ZVN3320F" V 7850 2950 50  0000 C CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 7700 2875 50  0001 L CIN
 F 3 "https://www.diodes.com/assets/Datasheets/ZVN3320F.pdf" H 7500 2950 50  0001 L CNN
 F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/ZVN3320FTA/152481" H 7500 2950 50  0001 C CNN "Digikey Page"
+F 5 "200V 60mA" V 7950 2950 50  0000 C CNN "Rating"
 	1    7500 2950
 	0    1    1    0   
 $EndComp
@@ -774,11 +793,12 @@ $Comp
 L Device:R_Small R37
 U 1 1 61F7A047
 P 8050 2650
-F 0 "R37" H 8109 2696 50  0000 L CNN
-F 1 "12k" H 8109 2605 50  0000 L CNN
+F 0 "R37" H 8100 2750 50  0000 L CNN
+F 1 "12k" H 8100 2650 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805" H 8050 2650 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 8050 2650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0712KL/728250" H 8050 2650 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" H 8100 2550 50  0000 L CNN "Rating"
 	1    8050 2650
 	1    0    0    -1  
 $EndComp
@@ -791,6 +811,7 @@ F 1 "1M" V 7795 3050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805" H 7900 3050 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7900 3050 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071ML/727445" H 7900 3050 50  0001 C CNN "Digikey Page"
+F 5 "1/8W" V 8000 3050 50  0000 C CNN "Rating"
 	1    7900 3050
 	0    1    1    0   
 $EndComp
@@ -803,6 +824,7 @@ F 1 "IN-12A" H 5100 3800 45  0001 L BNN
 F 2 "nixie-clock:IN-12-Socket" H 5130 3950 20  0001 C CNN
 F 3 "http://www.tube-tester.com/sites/nixie/dat_arch/IN-12A_IN-12B_03.pdf" H 5100 3800 50  0001 C CNN
 F 4 "N/A" H 5100 3800 50  0001 C CNN "Digikey Page"
+F 5 "170V" H 5100 3800 50  0001 C CNN "Rating"
 	1    5100 3800
 	1    0    0    -1  
 $EndComp
@@ -815,6 +837,7 @@ F 1 "IN-12A" H 6750 3800 45  0001 L BNN
 F 2 "nixie-clock:IN-12-Socket" H 6780 3950 20  0001 C CNN
 F 3 "http://www.tube-tester.com/sites/nixie/dat_arch/IN-12A_IN-12B_03.pdf" H 6750 3800 50  0001 C CNN
 F 4 "N/A" H 6750 3800 50  0001 C CNN "Digikey Page"
+F 5 "170V" H 6750 3800 50  0001 C CNN "Rating"
 	1    6750 3800
 	1    0    0    -1  
 $EndComp
@@ -827,139 +850,8 @@ F 1 "IN-12A" H 8400 3800 45  0001 L BNN
 F 2 "nixie-clock:IN-12-Socket" H 8430 3950 20  0001 C CNN
 F 3 "http://www.tube-tester.com/sites/nixie/dat_arch/IN-12A_IN-12B_03.pdf" H 8400 3800 50  0001 C CNN
 F 4 "N/A" H 8400 3800 50  0001 C CNN "Digikey Page"
+F 5 "170V" H 8400 3800 50  0001 C CNN "Rating"
 	1    8400 3800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:BSS127S Q19
-U 1 1 61F7A06A
-P 7950 4850
-F 0 "Q19" H 8154 4896 50  0000 L CNN
-F 1 "BSS127S" H 8154 4805 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 8150 4775 50  0001 L CIN
-F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 7950 4850 50  0001 L CNN
-F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 7950 4850 50  0001 C CNN "Digikey Page"
-	1    7950 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:BSS127S Q17
-U 1 1 61F7A071
-P 7450 4850
-F 0 "Q17" H 7654 4896 50  0000 L CNN
-F 1 "BSS127S" H 7654 4805 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 7650 4775 50  0001 L CIN
-F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 7450 4850 50  0001 L CNN
-F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 7450 4850 50  0001 C CNN "Digikey Page"
-	1    7450 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:BSS127S Q16
-U 1 1 61F7A078
-P 6950 4850
-F 0 "Q16" H 7154 4896 50  0000 L CNN
-F 1 "BSS127S" H 7154 4805 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 7150 4775 50  0001 L CIN
-F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 6950 4850 50  0001 L CNN
-F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 6950 4850 50  0001 C CNN "Digikey Page"
-	1    6950 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:BSS127S Q14
-U 1 1 61F7A07F
-P 6450 4850
-F 0 "Q14" H 6654 4896 50  0000 L CNN
-F 1 "BSS127S" H 6654 4805 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 6650 4775 50  0001 L CIN
-F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 6450 4850 50  0001 L CNN
-F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 6450 4850 50  0001 C CNN "Digikey Page"
-	1    6450 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:BSS127S Q13
-U 1 1 61F7A086
-P 5950 4850
-F 0 "Q13" H 6154 4896 50  0000 L CNN
-F 1 "BSS127S" H 6154 4805 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 6150 4775 50  0001 L CIN
-F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 5950 4850 50  0001 L CNN
-F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 5950 4850 50  0001 C CNN "Digikey Page"
-	1    5950 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:BSS127S Q11
-U 1 1 61F7A08D
-P 5450 4850
-F 0 "Q11" H 5654 4896 50  0000 L CNN
-F 1 "BSS127S" H 5654 4805 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 5650 4775 50  0001 L CIN
-F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 5450 4850 50  0001 L CNN
-F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 5450 4850 50  0001 C CNN "Digikey Page"
-	1    5450 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:BSS127S Q9
-U 1 1 61F7A094
-P 4950 4850
-F 0 "Q9" H 5154 4896 50  0000 L CNN
-F 1 "BSS127S" H 5154 4805 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 5150 4775 50  0001 L CIN
-F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 4950 4850 50  0001 L CNN
-F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 4950 4850 50  0001 C CNN "Digikey Page"
-	1    4950 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:BSS127S Q8
-U 1 1 61F7A09B
-P 4450 4850
-F 0 "Q8" H 4654 4896 50  0000 L CNN
-F 1 "BSS127S" H 4654 4805 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 4650 4775 50  0001 L CIN
-F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 4450 4850 50  0001 L CNN
-F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 4450 4850 50  0001 C CNN "Digikey Page"
-	1    4450 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:BSS127S Q6
-U 1 1 61F7A0A2
-P 3950 4850
-F 0 "Q6" H 4154 4896 50  0000 L CNN
-F 1 "BSS127S" H 4154 4805 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 4150 4775 50  0001 L CIN
-F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 3950 4850 50  0001 L CNN
-F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 3950 4850 50  0001 C CNN "Digikey Page"
-	1    3950 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:BSS127S Q5
-U 1 1 61F7A0A9
-P 3450 4850
-F 0 "Q5" H 3654 4896 50  0000 L CNN
-F 1 "BSS127S" H 3654 4805 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 3650 4775 50  0001 L CIN
-F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 3450 4850 50  0001 L CNN
-F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 3450 4850 50  0001 C CNN "Digikey Page"
-	1    3450 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:BSS127S Q3
-U 1 1 61F7A0B0
-P 2950 4850
-F 0 "Q3" H 3154 4896 50  0000 L CNN
-F 1 "BSS127S" H 3154 4805 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 3150 4775 50  0001 L CIN
-F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 2950 4850 50  0001 L CNN
-F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 2950 4850 50  0001 C CNN "Digikey Page"
-	1    2950 4850
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -971,6 +863,7 @@ F 1 "3mm" H 8850 2305 50  0001 L CNN
 F 2 "Mounting_Holes:MountingHole_3mm" H 8750 2350 50  0001 C CNN
 F 3 "N/A" H 8750 2350 50  0001 C CNN
 F 4 "N/A" H 8750 2350 50  0001 C CNN "Digikey Page"
+F 5 "N/A" H 8750 2350 50  0001 C CNN "Rating"
 	1    8750 2350
 	1    0    0    -1  
 $EndComp
@@ -983,6 +876,7 @@ F 1 "3mm" H 9100 2305 50  0001 L CNN
 F 2 "Mounting_Holes:MountingHole_3mm" H 9000 2350 50  0001 C CNN
 F 3 "N/A" H 9000 2350 50  0001 C CNN
 F 4 "N/A" H 9000 2350 50  0001 C CNN "Digikey Page"
+F 5 "N/A" H 9000 2350 50  0001 C CNN "Rating"
 	1    9000 2350
 	1    0    0    -1  
 $EndComp
@@ -1018,7 +912,9 @@ P 2850 1100
 F 0 "J6" V 2946 712 50  0000 R CNN
 F 1 "Conn_02x06_Counter_Clockwise" V 2855 712 50  0000 R CNN
 F 2 "nixie-clock:Sullins-EBC06DCWN-Mating-Edge" H 2850 1100 50  0001 C CNN
-F 3 "~" H 2850 1100 50  0001 C CNN
+F 3 "N/A" H 2850 1100 50  0001 C CNN
+F 4 "N/A" H 2850 1100 50  0001 C CNN "Digikey Page"
+F 5 "N/A" H 2850 1100 50  0001 C CNN "Rating"
 	1    2850 1100
 	0    1    1    0   
 $EndComp
@@ -1029,7 +925,9 @@ P 3100 6350
 F 0 "J7" V 3196 5662 50  0000 R CNN
 F 1 "Conn_02x12_Counter_Clockwise" V 3105 5662 50  0000 R CNN
 F 2 "nixie-clock:Sullins-EBC12DCWN-Mating-Edge" H 3100 6350 50  0001 C CNN
-F 3 "~" H 3100 6350 50  0001 C CNN
+F 3 "N/A" H 3100 6350 50  0001 C CNN
+F 4 "N/A" H 3100 6350 50  0001 C CNN "Digikey Page"
+F 5 "N/A" H 3100 6350 50  0001 C CNN "Rating"
 	1    3100 6350
 	0    -1   -1   0   
 $EndComp
@@ -1214,7 +1112,150 @@ Wire Wire Line
 	2550 2150 2550 2750
 Wire Wire Line
 	2300 5200 2300 5400
+Connection ~ 2300 5200
 Wire Bus Line
 	2900 4350 9050 4350
-Connection ~ 2300 5200
+$Comp
+L Transistor_FET:BSS127S Q19
+U 1 1 61F7A06A
+P 7950 4850
+F 0 "Q19" H 8150 4950 50  0000 L CNN
+F 1 "BSS127S" H 8150 4850 50  0000 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 8150 4775 50  0001 L CIN
+F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 7950 4850 50  0001 L CNN
+F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 7950 4850 50  0001 C CNN "Digikey Page"
+F 5 "600V 25mA" H 8150 4750 50  0000 L CNN "Rating"
+	1    7950 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:BSS127S Q16
+U 1 1 61F7A078
+P 6950 4850
+F 0 "Q16" H 7150 4950 50  0000 L CNN
+F 1 "BSS127S" H 7150 4850 50  0001 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 7150 4775 50  0001 L CIN
+F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 6950 4850 50  0001 L CNN
+F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 6950 4850 50  0001 C CNN "Digikey Page"
+F 5 "600V 25mA" H 6950 4850 50  0001 C CNN "Rating"
+	1    6950 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:BSS127S Q14
+U 1 1 61F7A07F
+P 6450 4850
+F 0 "Q14" H 6650 4950 50  0000 L CNN
+F 1 "BSS127S" H 6650 4850 50  0001 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 6650 4775 50  0001 L CIN
+F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 6450 4850 50  0001 L CNN
+F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 6450 4850 50  0001 C CNN "Digikey Page"
+F 5 "600V 25mA" H 6450 4850 50  0001 C CNN "Rating"
+	1    6450 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:BSS127S Q13
+U 1 1 61F7A086
+P 5950 4850
+F 0 "Q13" H 6150 4950 50  0000 L CNN
+F 1 "BSS127S" H 6150 4850 50  0001 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 6150 4775 50  0001 L CIN
+F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 5950 4850 50  0001 L CNN
+F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 5950 4850 50  0001 C CNN "Digikey Page"
+F 5 "600V 25mA" H 5950 4850 50  0001 C CNN "Rating"
+	1    5950 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:BSS127S Q11
+U 1 1 61F7A08D
+P 5450 4850
+F 0 "Q11" H 5650 4950 50  0000 L CNN
+F 1 "BSS127S" H 5650 4850 50  0001 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 5650 4775 50  0001 L CIN
+F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 5450 4850 50  0001 L CNN
+F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 5450 4850 50  0001 C CNN "Digikey Page"
+F 5 "600V 25mA" H 5450 4850 50  0001 C CNN "Rating"
+	1    5450 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:BSS127S Q9
+U 1 1 61F7A094
+P 4950 4850
+F 0 "Q9" H 5150 4950 50  0000 L CNN
+F 1 "BSS127S" H 5150 4850 50  0001 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 5150 4775 50  0001 L CIN
+F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 4950 4850 50  0001 L CNN
+F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 4950 4850 50  0001 C CNN "Digikey Page"
+F 5 "600V 25mA" H 4950 4850 50  0001 C CNN "Rating"
+	1    4950 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:BSS127S Q8
+U 1 1 61F7A09B
+P 4450 4850
+F 0 "Q8" H 4650 4950 50  0000 L CNN
+F 1 "BSS127S" H 4650 4850 50  0001 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 4650 4775 50  0001 L CIN
+F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 4450 4850 50  0001 L CNN
+F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 4450 4850 50  0001 C CNN "Digikey Page"
+F 5 "600V 25mA" H 4450 4850 50  0001 C CNN "Rating"
+	1    4450 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:BSS127S Q6
+U 1 1 61F7A0A2
+P 3950 4850
+F 0 "Q6" H 4150 4950 50  0000 L CNN
+F 1 "BSS127S" H 4150 4850 50  0001 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 4150 4775 50  0001 L CIN
+F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 3950 4850 50  0001 L CNN
+F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 3950 4850 50  0001 C CNN "Digikey Page"
+F 5 "600V 25mA" H 3950 4850 50  0001 C CNN "Rating"
+	1    3950 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:BSS127S Q5
+U 1 1 61F7A0A9
+P 3450 4850
+F 0 "Q5" H 3650 4950 50  0000 L CNN
+F 1 "BSS127S" H 3650 4850 50  0001 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 3650 4775 50  0001 L CIN
+F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 3450 4850 50  0001 L CNN
+F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 3450 4850 50  0001 C CNN "Digikey Page"
+F 5 "600V 25mA" H 3450 4850 50  0001 C CNN "Rating"
+	1    3450 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:BSS127S Q3
+U 1 1 61F7A0B0
+P 2950 4850
+F 0 "Q3" H 3150 4950 50  0000 L CNN
+F 1 "BSS127S" H 3150 4850 50  0001 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 3150 4775 50  0001 L CIN
+F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 2950 4850 50  0001 L CNN
+F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 2950 4850 50  0001 C CNN "Digikey Page"
+F 5 "600V 25mA" H 2950 4850 50  0001 C CNN "Rating"
+	1    2950 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:BSS127S Q17
+U 1 1 61F7A071
+P 7450 4850
+F 0 "Q17" H 7650 4950 50  0000 L CNN
+F 1 "BSS127S" H 7650 4850 50  0001 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 7650 4775 50  0001 L CIN
+F 3 "https://www.diodes.com/assets/Datasheets/BSS127.pdf" H 7450 4850 50  0001 L CNN
+F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127SSN-7/2792450" H 7450 4850 50  0001 C CNN "Digikey Page"
+F 5 "600V 25mA" H 7450 4850 50  0001 L CNN "Rating"
+	1    7450 4850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
