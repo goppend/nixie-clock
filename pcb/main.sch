@@ -23,6 +23,8 @@ F 2 "nixie-clock:Sullins-EBC06DCWN" H 1300 4000 50  0001 C CNN
 F 3 "https://s3.amazonaws.com/catalogspreads-pdf/PAGE54-55%20.100%20HP%20DS%20WW%20RA%20CE.pdf" H 1300 4000 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/sullins-connector-solutions/EBC06DCWN/927245" H 1300 4000 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 1300 4000 50  0001 C CNN "Rating"
+F 6 "-" H 1300 4000 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1300 4000 50  0001 C CNN "Alt Digikey"
 	1    1300 4000
 	-1   0    0    1   
 $EndComp
@@ -36,6 +38,8 @@ F 2 "nixie-clock:Sullins-EBC12DCWN" H 1300 5600 50  0001 C CNN
 F 3 "https://s3.amazonaws.com/catalogspreads-pdf/PAGE54-55%20.100%20HP%20DS%20WW%20RA%20CE.pdf" H 1300 5600 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/sullins-connector-solutions/EBC12DCWN/927256" H 1300 5600 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 1300 5600 50  0001 C CNN "Rating"
+F 6 "-" H 1300 5600 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1300 5600 50  0001 C CNN "Alt Digikey"
 	1    1300 5600
 	-1   0    0    1   
 $EndComp
@@ -60,6 +64,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 3900 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 3900 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 3900 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 3900 50  0001 C CNN "Rating"
+F 6 "-" H 1700 3900 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 3900 50  0001 C CNN "Alt Digikey"
 	1    1700 3900
 	0    1    1    0   
 $EndComp
@@ -73,6 +79,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 4000 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 4000 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 4000 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 4000 50  0001 C CNN "Rating"
+F 6 "-" H 1700 4000 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 4000 50  0001 C CNN "Alt Digikey"
 	1    1700 4000
 	0    1    1    0   
 $EndComp
@@ -86,6 +94,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 4100 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 4100 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 4100 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 4100 50  0001 C CNN "Rating"
+F 6 "-" H 1700 4100 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 4100 50  0001 C CNN "Alt Digikey"
 	1    1700 4100
 	0    1    1    0   
 $EndComp
@@ -99,6 +109,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 4200 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 4200 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 4200 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 4200 50  0001 C CNN "Rating"
+F 6 "-" H 1700 4200 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 4200 50  0001 C CNN "Alt Digikey"
 	1    1700 4200
 	0    1    1    0   
 $EndComp
@@ -112,6 +124,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 5000 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 5000 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 5000 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 5000 50  0001 C CNN "Rating"
+F 6 "-" H 1700 5000 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 5000 50  0001 C CNN "Alt Digikey"
 	1    1700 5000
 	0    1    1    0   
 $EndComp
@@ -125,6 +139,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 5100 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 5100 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 5100 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 5100 50  0001 C CNN "Rating"
+F 6 "-" H 1700 5100 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 5100 50  0001 C CNN "Alt Digikey"
 	1    1700 5100
 	0    1    1    0   
 $EndComp
@@ -138,6 +154,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 5200 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 5200 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 5200 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 5200 50  0001 C CNN "Rating"
+F 6 "-" H 1700 5200 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 5200 50  0001 C CNN "Alt Digikey"
 	1    1700 5200
 	0    1    1    0   
 $EndComp
@@ -151,6 +169,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 5300 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 5300 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 5300 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 5300 50  0001 C CNN "Rating"
+F 6 "-" H 1700 5300 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 5300 50  0001 C CNN "Alt Digikey"
 	1    1700 5300
 	0    1    1    0   
 $EndComp
@@ -164,6 +184,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 5400 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 5400 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 5400 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 5400 50  0001 C CNN "Rating"
+F 6 "-" H 1700 5400 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 5400 50  0001 C CNN "Alt Digikey"
 	1    1700 5400
 	0    1    1    0   
 $EndComp
@@ -177,6 +199,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 5500 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 5500 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 5500 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 5500 50  0001 C CNN "Rating"
+F 6 "-" H 1700 5500 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 5500 50  0001 C CNN "Alt Digikey"
 	1    1700 5500
 	0    1    1    0   
 $EndComp
@@ -190,6 +214,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 5700 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 5700 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 5700 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 5700 50  0001 C CNN "Rating"
+F 6 "-" H 1700 5700 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 5700 50  0001 C CNN "Alt Digikey"
 	1    1700 5700
 	0    1    1    0   
 $EndComp
@@ -203,6 +229,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 5800 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 5800 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 5800 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 5800 50  0001 C CNN "Rating"
+F 6 "-" H 1700 5800 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 5800 50  0001 C CNN "Alt Digikey"
 	1    1700 5800
 	0    1    1    0   
 $EndComp
@@ -216,6 +244,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 5900 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 5900 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 5900 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 5900 50  0001 C CNN "Rating"
+F 6 "-" H 1700 5900 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 5900 50  0001 C CNN "Alt Digikey"
 	1    1700 5900
 	0    1    1    0   
 $EndComp
@@ -229,6 +259,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 6000 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 6000 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 6000 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 6000 50  0001 C CNN "Rating"
+F 6 "-" H 1700 6000 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 6000 50  0001 C CNN "Alt Digikey"
 	1    1700 6000
 	0    1    1    0   
 $EndComp
@@ -242,6 +274,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 1700 6100 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 1700 6100 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0733KL/727863" H 1700 6100 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 1700 6100 50  0001 C CNN "Rating"
+F 6 "-" H 1700 6100 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1700 6100 50  0001 C CNN "Alt Digikey"
 	1    1700 6100
 	0    1    1    0   
 $EndComp
@@ -255,6 +289,8 @@ F 2 "Buttons_Switches_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS" H 8250 4950 50
 F 3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" H 8250 4950 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3F-3152/31741" H 8250 4750 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 8250 4750 50  0001 C CNN "Rating"
+F 6 "-" H 8250 4750 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 8250 4750 50  0001 C CNN "Alt Digikey"
 	1    8250 4750
 	1    0    0    -1  
 $EndComp
@@ -268,6 +304,8 @@ F 2 "Buttons_Switches_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS" H 8250 4400 50
 F 3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" H 8250 4400 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3F-3152/31741" H 8250 4200 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 8250 4200 50  0001 C CNN "Rating"
+F 6 "-" H 8250 4200 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 8250 4200 50  0001 C CNN "Alt Digikey"
 	1    8250 4200
 	1    0    0    -1  
 $EndComp
@@ -281,6 +319,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 7850 4200 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7850 4200 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-13100KL/13694147" H 7850 4200 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 7850 4200 50  0001 C CNN "Rating"
+F 6 "-" H 7850 4200 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 7850 4200 50  0001 C CNN "Alt Digikey"
 	1    7850 4200
 	0    1    1    0   
 $EndComp
@@ -294,6 +334,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 7850 4750 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7850 4750 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-13100KL/13694147" H 7850 4750 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 7850 4750 50  0001 C CNN "Rating"
+F 6 "-" H 7850 4750 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 7850 4750 50  0001 C CNN "Alt Digikey"
 	1    7850 4750
 	0    1    1    0   
 $EndComp
@@ -307,6 +349,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 8250 4400 50  0001 C CNN
 F 3 "www.samsungsem.com/kr/support/product-search/mlcc/CL21B105KAFNNNE.jsp" H 8250 4400 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724" H 8250 4400 50  0001 C CNN "Digikey Page"
 F 5 "25V" H 8250 4400 50  0001 C CNN "Rating"
+F 6 "-" H 8250 4400 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 8250 4400 50  0001 C CNN "Alt Digikey"
 	1    8250 4400
 	0    -1   -1   0   
 $EndComp
@@ -320,6 +364,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 8250 4950 50  0001 C CNN
 F 3 "www.samsungsem.com/kr/support/product-search/mlcc/CL21B105KAFNNNE.jsp" H 8250 4950 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724" H 8250 4950 50  0001 C CNN "Digikey Page"
 F 5 "25V" H 8250 4950 50  0001 C CNN "Rating"
+F 6 "-" H 8250 4950 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 8250 4950 50  0001 C CNN "Alt Digikey"
 	1    8250 4950
 	0    -1   -1   0   
 $EndComp
@@ -412,6 +458,8 @@ F 2 "Connectors:Barrel_Jack_CUI_PJ-036AH-SMT" H 1200 1360 50  0001 C CNN
 F 3 "https://www.cuidevices.com/product/resource/pj-036ah-smt-tr.pdf" H 1200 1360 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/cui-devices/PJ-036AH-SMT-TR/1530971" H 1150 1400 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 1150 1400 50  0001 C CNN "Rating"
+F 6 "-" H 1150 1400 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1150 1400 50  0001 C CNN "Alt Digikey"
 	1    1150 1400
 	1    0    0    -1  
 $EndComp
@@ -425,6 +473,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1800 1450 50  0001 C CNN
 F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL21B103KBANNNC.jsp" H 1800 1450 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B103KBANNNC/3886673" H 1800 1450 50  0001 C CNN "Digikey Page"
 F 5 "50v" H 1900 1350 50  0000 L CNN "Rating"
+F 6 "-" H 1800 1450 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1800 1450 50  0001 C CNN "Alt Digikey"
 	1    1800 1450
 	1    0    0    -1  
 $EndComp
@@ -438,6 +488,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3150 1450 50  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 3150 1450 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A104KA5NNNC/3886701" H 3150 1450 50  0001 C CNN "Digikey Page"
 F 5 "25V" H 3250 1350 50  0000 L CNN "Rating"
+F 6 "-" H 3150 1450 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 3150 1450 50  0001 C CNN "Alt Digikey"
 	1    3150 1450
 	1    0    0    -1  
 $EndComp
@@ -451,6 +503,8 @@ F 2 "Capacitors_SMD:CP_Elec_4x5.3" H 4600 1450 50  0001 C CNN
 F 3 "https://products.nichicon.co.jp/en/pdf/XJA043/e-uwx.pdf" H 4600 1450 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/nichicon/UWX1H010MCL1GB/589871" H 4600 1450 50  0001 C CNN "Digikey Page"
 F 5 "50V" H 4700 1350 50  0000 L CNN "Rating"
+F 6 "https://products.nichicon.co.jp/en/pdf/XJA043/e-uwt.pdf" H 4600 1450 50  0001 C CNN "Alt Datasheet"
+F 7 "https://www.digikey.com/en/products/detail/nichicon/UWT1H010MCL1GB/589957" H 4600 1450 50  0001 C CNN "Alt Digikey"
 	1    4600 1450
 	1    0    0    -1  
 $EndComp
@@ -470,6 +524,8 @@ F 2 "Capacitors_SMD:CP_Elec_4x5.3" H 3500 1450 50  0001 C CNN
 F 3 "https://products.nichicon.co.jp/en/pdf/XJA043/e-uwx.pdf" H 3500 1450 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/nichicon/UWX1H010MCL1GB/589871" H 3500 1450 50  0001 C CNN "Digikey Page"
 F 5 "50V" H 3600 1350 50  0000 L CNN "Rating"
+F 6 "https://products.nichicon.co.jp/en/pdf/XJA043/e-uwt.pdf" H 3500 1450 50  0001 C CNN "Alt Datasheet"
+F 7 "https://www.digikey.com/en/products/detail/nichicon/UWT1H010MCL1GB/589957" H 3500 1450 50  0001 C CNN "Alt Digikey"
 	1    3500 1450
 	1    0    0    -1  
 $EndComp
@@ -515,6 +571,8 @@ F 2 "Diodes_SMD:Diode_Bridge_MBLS" H 2500 1450 50  0001 C CNN
 F 3 "http://www.smc-diodes.com/propdf/KMB22S%20THRU%20KMB225S%20N1952%20REV.A.pdf" H 2500 1450 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/smc-diode-solutions/KMB26STR/7898343" H 2500 1450 50  0001 C CNN "Digikey Page"
 F 5 "60V" H 2500 1450 50  0001 C CNN "Rating"
+F 6 "-" H 2500 1450 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 2500 1450 50  0001 C CNN "Alt Digikey"
 	1    2500 1450
 	0    -1   -1   0   
 $EndComp
@@ -568,6 +626,8 @@ F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 5350 1450 50  0001 C CN
 F 3 "https://media.digikey.com/PDF/Data%20Sheets/Sullins%20PDFs/z%20RzCzzzSzzN-RC,%20ST,11635-B.pdf" H 5350 1450 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/sullins-connector-solutions/PREC040SAAN-RC/2774814" H 5350 1450 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 5350 1450 50  0001 C CNN "Rating"
+F 6 "-" H 5350 1450 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 5350 1450 50  0001 C CNN "Alt Digikey"
 	1    5350 1450
 	-1   0    0    1   
 $EndComp
@@ -703,6 +763,8 @@ F 2 "Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm" H 8800 3050 50  0001 C CNN
 F 3 "https://datasheets.maximintegrated.com/en/ds/DS1307.pdf" H 8800 3550 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/DS1307Z-T-R/1017945" H 8800 3550 50  0001 C CNN "Digikey Page"
 F 5 "5V" H 8800 3550 50  0001 C CNN "Rating"
+F 6 "https://www.diodes.com/assets/Datasheets/PT7C4339-4339C.pdf" H 8800 3550 50  0001 C CNN "Alt Datasheet"
+F 7 "https://www.digikey.com/en/products/detail/diodes-incorporated/PT7C4339WEX/6237586" H 8800 3550 50  0001 C CNN "Alt Digikey"
 	1    8800 3550
 	1    0    0    -1  
 $EndComp
@@ -716,6 +778,8 @@ F 2 "Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm_HandSoldering" H 7750 3700 50  000
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Microchip%20PDFs/VMK3-9005-32K7680000_May15_2021.pdf" H 7750 3700 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/microchip-technology/VMK3-9005-32K7680000/13175117?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbXFgA5ZYBOEAXQIAcAXKEAZRYCcBLAOwDmIAL4EALPGghkkdNnxFS4AAw0ATAGYGzNpE48BwsSFoIZqTLgLFIZcWs01tjEK3Zc%2BQ0QTA0KdNKy8tZKdiAqOm56Bl7GBOpgAKyRQZYKNsqa6gB0AOyUAAQA1gASAF5R7voAqvy8LADyKACyOGhYAK7cOD4gALTq5rI8nYq2ZEkMJv0QaXJW48rJkfQi60A" H 7750 3700 50  0001 C CNN "Digikey Page"
 F 5 "±20ppm" H 7750 3700 50  0001 C CNN "Rating"
+F 6 "-" H 7750 3700 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 7750 3700 50  0001 C CNN "Alt Digikey"
 	1    7750 3700
 	0    -1   -1   0   
 $EndComp
@@ -745,6 +809,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 9400 3300 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 9400 3300 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-072K2L/727676" H 9400 3300 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 9400 3300 50  0001 C CNN "Rating"
+F 6 "-" H 9400 3300 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 9400 3300 50  0001 C CNN "Alt Digikey"
 	1    9400 3300
 	1    0    0    -1  
 $EndComp
@@ -780,6 +846,8 @@ F 2 "Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm" H 7500 2850 50  0001 C CN
 F 3 "https://media.digikey.com/PDF/Data%20Sheets/Sullins%20PDFs/z%20RzCzzzSzzN-RC,%20ST,11635-B.pdf" H 7500 2850 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/sullins-connector-solutions/PREC040SAAN-RC/2774814" H 7500 2850 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 7500 2850 50  0001 C CNN "Rating"
+F 6 "-" H 7500 2850 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 7500 2850 50  0001 C CNN "Alt Digikey"
 	1    7500 2850
 	1    0    0    -1  
 $EndComp
@@ -793,6 +861,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 3450 3900 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 3450 3900 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-13100KL/13694147" H 3450 3900 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 3200 3750 50  0001 L CNN "Rating"
+F 6 "-" H 3450 3900 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 3450 3900 50  0001 C CNN "Alt Digikey"
 	1    3450 3900
 	1    0    0    -1  
 $EndComp
@@ -821,6 +891,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3450 4200 50  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 3450 4200 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A104KA5NNNC/3886701" H 3450 4200 50  0001 C CNN "Digikey Page"
 F 5 "25V" H 3550 4100 50  0001 L CNN "Rating"
+F 6 "-" H 3450 4200 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 3450 4200 50  0001 C CNN "Alt Digikey"
 	1    3450 4200
 	1    0    0    -1  
 $EndComp
@@ -834,6 +906,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 6000 2600 50  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 6000 2600 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A104KA5NNNC/3886701" H 6000 2600 50  0001 C CNN "Digikey Page"
 F 5 "25V" H 6100 2500 50  0000 L CNN "Rating"
+F 6 "-" H 6000 2600 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 6000 2600 50  0001 C CNN "Alt Digikey"
 	1    6000 2600
 	1    0    0    -1  
 $EndComp
@@ -847,6 +921,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 6400 2600 50  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 6400 2600 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A104KA5NNNC/3886701" H 6400 2600 50  0001 C CNN "Digikey Page"
 F 5 "25V" H 6500 2500 50  0000 L CNN "Rating"
+F 6 "-" H 6400 2600 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 6400 2600 50  0001 C CNN "Alt Digikey"
 	1    6400 2600
 	1    0    0    -1  
 $EndComp
@@ -897,6 +973,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 7950 3200 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7950 3200 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-134K7L/13694180" H 7950 3200 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 7950 3200 50  0001 C CNN "Rating"
+F 6 "-" H 7950 3200 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 7950 3200 50  0001 C CNN "Alt Digikey"
 	1    7950 3200
 	1    0    0    -1  
 $EndComp
@@ -910,6 +988,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 7700 3200 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7700 3200 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-134K7L/13694180" H 7700 3200 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 7700 3200 50  0001 C CNN "Rating"
+F 6 "-" H 7700 3200 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 7700 3200 50  0001 C CNN "Alt Digikey"
 	1    7700 3200
 	1    0    0    -1  
 $EndComp
@@ -936,6 +1016,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3700 3750 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf" H 3700 3750 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 3700 3750 50  0001 C CNN "Digikey Page"
 F 5 "50V" H 3700 3750 50  0001 C CNN "Rating"
+F 6 "-" H 3700 3750 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 3700 3750 50  0001 C CNN "Alt Digikey"
 	1    3700 3750
 	0    1    1    0   
 $EndComp
@@ -953,6 +1035,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3700 3550 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf" H 3700 3550 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 3700 3550 50  0001 C CNN "Digikey Page"
 F 5 "50V" H 3700 3550 50  0001 C CNN "Rating"
+F 6 "-" H 3700 3550 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 3700 3550 50  0001 C CNN "Alt Digikey"
 	1    3700 3550
 	0    1    1    0   
 $EndComp
@@ -982,6 +1066,8 @@ F 2 "TO_SOT_Packages_SMD:SOT-223-3_TabPin2" H 4200 1500 50  0001 C CNN
 F 3 "http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF" H 4300 1050 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/onsemi/NCP1117IST50T3G/14545340" H 4200 1300 50  0001 C CNN "Digikey Page"
 F 5 "5V" H 4200 1300 50  0001 C CNN "Rating"
+F 6 "-" H 4200 1300 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 4200 1300 50  0001 C CNN "Alt Digikey"
 	1    4200 1300
 	1    0    0    -1  
 $EndComp
@@ -994,7 +1080,7 @@ Connection ~ 3500 1300
 Connection ~ 3500 1600
 Text Label 3850 1300 2    50   ~ 0
 +RAW
-Text Label 4150 4050 0    50   ~ 0
+Text Label 4200 4050 0    50   ~ 0
 MCLR
 Text Label 7450 4950 0    50   ~ 0
 MODE_SW
@@ -1002,8 +1088,6 @@ Text Label 7450 4400 0    50   ~ 0
 UP_SW
 Wire Wire Line
 	8000 4950 7450 4950
-Wire Wire Line
-	3900 4050 4450 4050
 Wire Wire Line
 	8000 4400 7450 4400
 Connection ~ 8000 4400
@@ -1081,6 +1165,8 @@ F 2 "nixie-clock:BU2032SM-BT-GTR" V 9700 3610 50  0001 C CNN
 F 3 "https://www.memoryprotectiondevices.com/datasheets/BU2032SM-BT-GTR-datasheet.pdf" V 9700 3610 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BU2032SM-BT-GTR/2439521" H 9700 3550 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 9700 3550 50  0001 C CNN "Rating"
+F 6 "https://www.memoryprotectiondevices.com/datasheets/BU2032SM-HD-G-datasheet.pdf" H 9700 3550 50  0001 C CNN "Alt Datasheet"
+F 7 "https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BU2032SM-HD-G/755446" H 9700 3550 50  0001 C CNN "Alt Digikey"
 	1    9700 3550
 	1    0    0    -1  
 $EndComp
@@ -1088,7 +1174,6 @@ Wire Wire Line
 	9700 4050 8800 4050
 Text Label 7200 3150 2    50   ~ 0
 PGED
-NoConn ~ 4450 3950
 NoConn ~ 4450 3650
 $Comp
 L 4xxx:4028 U1
@@ -1100,6 +1185,8 @@ F 2 "Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 3350 5650 50  0001 C CNN
 F 3 "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4028bms.pdf" H 3350 5650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/texas-instruments/CD4028BM96/614903" H 3350 5650 50  0001 C CNN "Digikey Page"
 F 5 "18V" H 3350 5650 50  0001 C CNN "Rating"
+F 6 "-" H 3350 5650 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 3350 5650 50  0001 C CNN "Alt Digikey"
 	1    3350 5650
 	-1   0    0    1   
 $EndComp
@@ -1129,8 +1216,6 @@ U 61F4022F
 F0 "Tube Board" 50
 F1 "tube board.sch" 50
 $EndSheet
-Wire Wire Line
-	4450 4250 4150 4250
 Wire Wire Line
 	4150 4550 4150 4650
 Text Label 4150 4650 2    50   ~ 0
@@ -1244,6 +1329,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 8250 5500 50  0001 C CNN
 F 3 "www.samsungsem.com/kr/support/product-search/mlcc/CL21B105KAFNNNE.jsp" H 8250 5500 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724" H 8250 5500 50  0001 C CNN "Digikey Page"
 F 5 "25V" H 8250 5500 50  0001 C CNN "Rating"
+F 6 "-" H 8250 5500 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 8250 5500 50  0001 C CNN "Alt Digikey"
 	1    8250 5500
 	0    -1   -1   0   
 $EndComp
@@ -1257,6 +1344,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 7850 5300 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7850 5300 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-13100KL/13694147" H 7850 5300 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 7850 5300 50  0001 C CNN "Rating"
+F 6 "-" H 7850 5300 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 7850 5300 50  0001 C CNN "Alt Digikey"
 	1    7850 5300
 	0    1    1    0   
 $EndComp
@@ -1270,6 +1359,8 @@ F 2 "Buttons_Switches_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS" H 8250 5500 50
 F 3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" H 8250 5500 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3F-3152/31741" H 8250 5300 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 8250 5300 50  0001 C CNN "Rating"
+F 6 "-" H 8250 5300 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 8250 5300 50  0001 C CNN "Alt Digikey"
 	1    8250 5300
 	1    0    0    -1  
 $EndComp
@@ -1287,11 +1378,11 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3850 4300 50  0001 C CNN
 F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL21A106KOCLRNC.jsp" H 3850 4300 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOCLRNC/3888057" H 3850 4300 50  0001 C CNN "Digikey Page"
 F 5 "16V" H 3950 4200 50  0000 L CNN "Rating"
+F 6 "-" H 3850 4300 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 3850 4300 50  0001 C CNN "Alt Digikey"
 	1    3850 4300
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4450 4150 3850 4150
 Wire Wire Line
 	7950 3450 8300 3450
 Wire Wire Line
@@ -1315,12 +1406,12 @@ SCL
 Text Label 7200 3450 2    50   ~ 0
 SDA
 Wire Wire Line
-	5550 5100 5550 5200
+	5650 5100 5650 5200
 Wire Wire Line
-	5750 5200 5750 5100
+	5850 5200 5850 5100
 Wire Wire Line
-	5750 5200 5950 5200
-Text Label 5950 5200 2    50   ~ 0
+	5850 5200 6050 5200
+Text Label 6050 5200 2    50   ~ 0
 GND
 Wire Wire Line
 	3800 3550 4050 3550
@@ -1330,16 +1421,12 @@ Wire Wire Line
 	6900 3350 6850 3350
 Wire Wire Line
 	6900 3450 6850 3450
-Text Label 4150 3750 0    50   ~ 0
+Text Label 4200 3750 0    50   ~ 0
 OSCI
-Text Label 4150 3850 0    50   ~ 0
+Text Label 4200 3850 0    50   ~ 0
 OSCO
-Text Label 4150 4150 0    50   ~ 0
+Text Label 4200 4150 0    50   ~ 0
 Vcap
-Text Label 4150 4250 0    50   ~ 0
-BUZZ
-Wire Wire Line
-	4150 4250 4150 4350
 $Comp
 L Device:Buzzer BZ1
 U 1 1 6210CC18
@@ -1350,6 +1437,8 @@ F 2 "nixie-clock:Buzzer_12x9.5RM7.6" V 4225 4550 50  0001 C CNN
 F 3 "https://www.soberton.com/wp-content/uploads/2019/02/WT-1205-16-Feb-2019.pdf" V 4225 4550 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/soberton-inc/WT-1205/479674" H 4250 4450 50  0001 C CNN "Digikey Page"
 F 5 "5V 50mA" H 4250 4450 50  0001 C CNN "Rating"
+F 6 "-" H 4250 4450 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 4250 4450 50  0001 C CNN "Alt Digikey"
 	1    4250 4450
 	1    0    0    -1  
 $EndComp
@@ -1359,12 +1448,12 @@ Text Label 7450 5500 0    50   ~ 0
 DOWN_SW
 Connection ~ 5650 2400
 Wire Wire Line
-	5550 5200 5750 5200
-Connection ~ 5750 5200
+	5650 5200 5850 5200
+Connection ~ 5850 5200
 Text Label 8700 2950 2    50   ~ 0
 +5V
 $Comp
-L nixie-clock:PIC24FV32KA302-I_SO U3
+L nixie-clock:PIC24FJ32GP202 U3
 U 1 1 61F920F4
 P 5650 3900
 F 0 "U3" H 4550 5050 50  0000 L BNN
@@ -1373,6 +1462,9 @@ F 2 "Housings_SOIC:SOIC-28W_7.5x18.7mm_Pitch1.27mm" H 5650 4000 50  0001 C CNN
 F 3 "https://ww1.microchip.com/downloads/en/DeviceDoc/30009995e.pdf" H 5650 4100 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/microchip-technology/PIC24FV32KA302-I-SS/2651336?s=N4IgjCBcpgnAHLKoDGUBmBDANgZwKYA0IA9lANogAMIAusQA4AuUIAykwE4CWAdgOYgAvsQC0AJmQg0kLgFcipCiACsIYklpCRISZEoAFAJIBhcQBYAYgDUAzOIDSAQVtVJWoA" H 5650 3900 50  0001 C CNN "Digikey Page"
 F 5 "5V" H 5650 3900 50  0001 C CNN "Rating"
+F 6 "https://ww1.microchip.com/downloads/en/DeviceDoc/PIC24FJ64GP205-GU205-Family-Data-Sheet-DS30010221C.pdf" H 5650 3900 50  0001 C CNN "Alt Datasheet"
+F 7 "https://www.digikey.com/en/products/detail/microchip-technology/PIC24FJ32GP202T-I-SO/13636078" H 5650 3900 50  0001 C CNN "Alt Digikey"
+F 8 "" H 5650 3900 50  0001 C CNN "Notes"
 	1    5650 3900
 	1    0    0    -1  
 $EndComp
@@ -1391,6 +1483,8 @@ F 2 "Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm_HandSoldering" H 3950 3750 50  000
 F 3 "https://abracon.com/Resonators/abm3.pdf" H 3950 3750 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/abracon-llc/ABM3-8-000MHZ-D2Y-T/2344570" H 3950 3750 50  0001 C CNN "Digikey Page"
 F 5 "±20ppm" H 3950 3750 50  0001 C CNN "Rating"
+F 6 "https://ecsxtal.com/store/pdf/ecx-53r.pdf" H 3950 3750 50  0001 C CNN "Alt Datasheet"
+F 7 "https://www.digikey.com/en/products/detail/ecs-inc/ECS-80-18-30-JGN-TR/5875530?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbXFgA5ZYBOEAXQIAcAXKEAZRYCcBLAOwDmIAL4EAzAFYEIZJHTZ8RUuDgAWAAziGzNpE48BwsSDXxos1JlwFikMmHFU1OkK3Zc%2BQ0QTA0KdBZyCjbK9iAaru76nkY%2BIABMYJKRQVaKtioUAAQAsgASAF5ReiAAqvy8LADyKLk4aFgArtw48QC0CTJyPE1KdmTSBHT0ImNAA" H 3950 3750 50  0001 C CNN "Alt Digikey"
 	1    3950 3750
 	1    0    0    -1  
 $EndComp
@@ -1445,6 +1539,8 @@ F 2 "Mounting_Holes:MountingHole_3.2mm_M3" H 1000 7500 50  0001 C CNN
 F 3 "N/A" H 1000 7500 50  0001 C CNN
 F 4 "N/A" H 1000 7500 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 1000 7500 50  0001 C CNN "Rating"
+F 6 "-" H 1000 7500 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1000 7500 50  0001 C CNN "Alt Digikey"
 	1    1000 7500
 	1    0    0    -1  
 $EndComp
@@ -1458,6 +1554,8 @@ F 2 "Mounting_Holes:MountingHole_3.2mm_M3" H 800 7500 50  0001 C CNN
 F 3 "N/A" H 800 7500 50  0001 C CNN
 F 4 "N/A" H 800 7500 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 800 7500 50  0001 C CNN "Rating"
+F 6 "-" H 800 7500 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 800 7500 50  0001 C CNN "Alt Digikey"
 	1    800  7500
 	1    0    0    -1  
 $EndComp
@@ -1471,6 +1569,8 @@ F 2 "Mounting_Holes:MountingHole_3.2mm_M3" H 1000 7300 50  0001 C CNN
 F 3 "N/A" H 1000 7300 50  0001 C CNN
 F 4 "N/A" H 1000 7300 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 1000 7300 50  0001 C CNN "Rating"
+F 6 "-" H 1000 7300 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 1000 7300 50  0001 C CNN "Alt Digikey"
 	1    1000 7300
 	1    0    0    -1  
 $EndComp
@@ -1484,6 +1584,8 @@ F 2 "Mounting_Holes:MountingHole_3.2mm_M3" H 800 7300 50  0001 C CNN
 F 3 "N/A" H 800 7300 50  0001 C CNN
 F 4 "N/A" H 800 7300 50  0001 C CNN "Digikey Page"
 F 5 "N/A" H 800 7300 50  0001 C CNN "Rating"
+F 6 "-" H 800 7300 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 800 7300 50  0001 C CNN "Alt Digikey"
 	1    800  7300
 	1    0    0    -1  
 $EndComp
@@ -1529,8 +1631,25 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 3800 4050 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 3800 4050 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100RL/727543" H 3800 4050 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 3800 4050 50  0001 C CNN "Rating"
+F 6 "-" H 3800 4050 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 3800 4050 50  0001 C CNN "Alt Digikey"
 	1    3800 4050
 	0    1    1    0   
 $EndComp
 NoConn ~ 1450 1400
+Wire Wire Line
+	5450 5100 5450 5200
+Wire Wire Line
+	5450 5200 5650 5200
+Connection ~ 5650 5200
+Text Label 4200 3950 0    50   ~ 0
+BUZZ
+Wire Wire Line
+	4450 3950 4150 3950
+Wire Wire Line
+	4450 4150 3850 4150
+Wire Wire Line
+	3900 4050 4450 4050
+Wire Wire Line
+	4150 3950 4150 4350
 $EndSCHEMATC

@@ -27,6 +27,8 @@ F 2 "Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm" H 5100 4200 50  0001 L BNN
 F 3 "https://datasheets.maximintegrated.com/en/ds/MAX1771.pdf" H 5100 4100 50  0001 L BNN
 F 4 "https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX1771CSA-T/1520601" H 5550 3600 50  0001 C CNN "Digikey Page"
 F 5 "16.5V" H 5550 3600 50  0001 C CNN "Rating"
+F 6 "-" H 5550 3600 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 5550 3600 50  0001 C CNN "Alt Digikey"
 	1    5550 3600
 	1    0    0    -1  
 $EndComp
@@ -47,6 +49,8 @@ F 2 "Inductors:Inductor_Taiyo-Yuden_NR-80xx_HandSoldering" H 6400 2950 50  0001 
 F 3 "https://www.yuden.co.jp/productdata/catalog/wound04_e.pdf" H 6400 2950 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/taiyo-yuden/NR8040T101M/1739086" H 6400 2950 50  0001 C CNN "Digikey Page"
 F 5 "1A" V 6350 2950 50  0000 C CNN "Rating"
+F 6 "-" H 6400 2950 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 6400 2950 50  0001 C CNN "Alt Digikey"
 	1    6400 2950
 	0    -1   -1   0   
 $EndComp
@@ -60,6 +64,8 @@ F 2 "Diodes_SMD:D_SMB_Handsoldering" V 6950 2950 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/88588/es2f.pdf" V 6950 2950 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/ES2F-E3-52T/1091445" H 6950 2950 50  0001 C CNN "Digikey Page"
 F 5 "300V 2A" H 6950 3050 50  0000 C CNN "Rating"
+F 6 "-" H 6950 2950 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 6950 2950 50  0001 C CNN "Alt Digikey"
 	1    6950 2950
 	-1   0    0    1   
 $EndComp
@@ -91,6 +97,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 4800 4100 50  0001 C CNN
 F 3 "https://product.tdk.com/en/system/files?file=dam/doc/product/capacitor/ceramic/mlcc/charasheet/cga4j3x7t2e104k125aa.pdf" H 4800 4100 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/tdk-corporation/CGA4J3X7T2E104K125AA/2672869" H 4800 4100 50  0001 C CNN "Digikey Page"
 F 5 "250V" H 4900 4000 50  0000 L CNN "Rating"
+F 6 "-" H 4800 4100 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 4800 4100 50  0001 C CNN "Alt Digikey"
 	1    4800 4100
 	1    0    0    -1  
 $EndComp
@@ -114,6 +122,8 @@ F 2 "Resistors_SMD:R_1206_HandSoldering" H 6600 3800 50  0001 C CNN
 F 3 "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C313.pdf" H 6600 3800 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-8CWJR050V/4927034" H 6600 3800 50  0001 C CNN "Digikey Page"
 F 5 "1W" H 6650 3700 50  0000 L CNN "Rating"
+F 6 "-" H 6600 3800 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 6600 3800 50  0001 C CNN "Alt Digikey"
 	1    6600 3800
 	1    0    0    -1  
 $EndComp
@@ -143,6 +153,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 7300 3250 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7300 3250 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-101M5L/14286567" H 7300 3250 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 7350 3150 50  0000 L CNN "Rating"
+F 6 "-" H 7300 3250 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 7300 3250 50  0001 C CNN "Alt Digikey"
 	1    7300 3250
 	1    0    0    -1  
 $EndComp
@@ -156,6 +168,8 @@ F 2 "Resistors_SMD:R_0805_HandSoldering" H 7300 4100 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7300 4100 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0713K3L/727586" H 7300 4100 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 7350 4000 50  0000 L CNN "Rating"
+F 6 "-" H 7300 4100 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 7300 4100 50  0001 C CNN "Alt Digikey"
 	1    7300 4100
 	1    0    0    -1  
 $EndComp
@@ -179,6 +193,8 @@ F 2 "Capacitors_SMD:C_1206_HandSoldering" H 8200 3600 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/products/datasheet/mlcc/UPY-NP0X7R_MV_100-to-630V_21.pdf" H 8200 3600 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7RYBB104/5195382" H 8200 3600 50  0001 C CNN "Digikey Page"
 F 5 "250V" H 8300 3500 50  0000 L CNN "Rating"
+F 6 "-" H 8200 3600 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 8200 3600 50  0001 C CNN "Alt Digikey"
 	1    8200 3600
 	1    0    0    -1  
 $EndComp
@@ -192,6 +208,8 @@ F 2 "Capacitors_THT:CP_Radial_D10.0mm_P5.00mm" H 7800 3600 50  0001 C CNN
 F 3 "https://www.nichicon.co.jp/english/products/pdfs/e-ups.pdf" H 7800 3600 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/nichicon/UPS2E4R7MPD1TD/3129739" H 7800 3600 50  0001 C CNN "Digikey Page"
 F 5 "250V" H 7900 3500 50  0000 L CNN "Rating"
+F 6 "-" H 7800 3600 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 7800 3600 50  0001 C CNN "Alt Digikey"
 	1    7800 3600
 	1    0    0    -1  
 $EndComp
@@ -225,6 +243,8 @@ F 2 "Potentiometers:Potentiometer_Trimmer_Bourns_3214X" H 7300 3650 50  0001 C C
 F 3 "https://www.bourns.com/docs/Product-Datasheets/3214.pdf" H 7300 3650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/bourns-inc/3214X-1-103E/1817397" H 7300 3650 50  0001 C CNN "Digikey Page"
 F 5 "1/4W" H 7250 3750 50  0000 R CNN "Rating"
+F 6 "-" H 7300 3650 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 7300 3650 50  0001 C CNN "Alt Digikey"
 	1    7300 3650
 	-1   0    0    1   
 $EndComp
@@ -244,6 +264,8 @@ F 2 "TO_SOT_Packages_SMD:TO-263-2" H 6750 3225 50  0001 L CIN
 F 3 "http://www.vishay.com/docs/91054/91054.pdf" H 6500 3300 50  0001 L CNN
 F 4 "https://www.digikey.com/en/products/detail/vishay-siliconix/IRF740ASPBF/812108" H 6500 3300 50  0001 C CNN "Digikey Page"
 F 5 "400V 2A" H 6700 3200 50  0000 L CNN "Rating"
+F 6 "https://www.st.com/content/ccc/resource/technical/document/datasheet/44/4c/24/37/1f/95/4d/c1/CD00003028.pdf/files/CD00003028.pdf/jcr:content/translations/en.CD00003028.pdf" H 6500 3300 50  0001 C CNN "Alt Datasheet"
+F 7 "https://www.digikey.com/en/products/detail/stmicroelectronics/STB11NK40ZT4/2022881" H 6500 3300 50  0001 C CNN "Alt Digikey"
 	1    6500 3300
 	1    0    0    -1  
 $EndComp
@@ -269,6 +291,8 @@ F 2 "Capacitors_SMD:CP_Elec_6.3x7.7" H 3950 3850 50  0001 C CNN
 F 3 "https://www.rubycon.co.jp/wp-content/uploads/catalog-aluminum/TZV.pdf" H 3950 3850 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/rubycon/25TZV100M6-3X8/3134865" H 3950 3850 50  0001 C CNN "Digikey Page"
 F 5 "25V" H 4050 3750 50  0000 L CNN "Rating"
+F 6 "https://media.digikey.com/pdf/Data%20Sheets/NextGen%20Components%20PDFs/UT107M025HEJTA.pdf" H 3950 3850 50  0001 C CNN "Alt Datasheet"
+F 7 "https://www.digikey.com/en/products/detail/aillen/UT107M025HEJTA/15282268" H 3950 3850 50  0001 C CNN "Alt Digikey"
 	1    3950 3850
 	1    0    0    -1  
 $EndComp
@@ -287,6 +311,8 @@ F 2 "Capacitors_SMD:C_0805_HandSoldering" H 4400 3850 50  0001 C CNN
 F 3 "https://product.tdk.com/en/system/files?file=dam/doc/product/capacitor/ceramic/mlcc/charasheet/cga4j3x7t2e104k125aa.pdf" H 4400 3850 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/tdk-corporation/CGA4J3X7T2E104K125AA/2672869" H 4400 3850 50  0001 C CNN "Digikey Page"
 F 5 "250V" H 4500 3750 50  0000 L CNN "Rating"
+F 6 "-" H 4400 3850 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 4400 3850 50  0001 C CNN "Alt Digikey"
 	1    4400 3850
 	1    0    0    -1  
 $EndComp
