@@ -468,11 +468,11 @@ L Device:C_Small C1
 U 1 1 621DC6D0
 P 1800 1450
 F 0 "C1" H 1900 1550 50  0000 L CNN
-F 1 "0.01u" H 1900 1450 50  0000 L CNN
+F 1 "0.1u" H 1900 1450 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1800 1450 50  0001 C CNN
-F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL21B103KBANNNC.jsp" H 1800 1450 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B103KBANNNC/3886673" H 1800 1450 50  0001 C CNN "Digikey Page"
-F 5 "50v" H 1900 1350 50  0000 L CNN "Rating"
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 1800 1450 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A104KA5NNNC/3886701" H 1800 1450 50  0001 C CNN "Digikey Page"
+F 5 "25v" H 1900 1350 50  0000 L CNN "Rating"
 F 6 "-" H 1800 1450 50  0001 C CNN "Alt Datasheet"
 F 7 "-" H 1800 1450 50  0001 C CNN "Alt Digikey"
 	1    1800 1450
@@ -968,10 +968,10 @@ L Device:R_Small R22
 U 1 1 62AC0AFA
 P 7950 3200
 F 0 "R22" H 8009 3246 50  0000 L CNN
-F 1 "4.7k" H 8009 3155 50  0000 L CNN
+F 1 "2.2k" H 8009 3155 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" H 7950 3200 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7950 3200 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-134K7L/13694180" H 7950 3200 50  0001 C CNN "Digikey Page"
+F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-072K2L/727676" H 7950 3200 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 7950 3200 50  0001 C CNN "Rating"
 F 6 "-" H 7950 3200 50  0001 C CNN "Alt Datasheet"
 F 7 "-" H 7950 3200 50  0001 C CNN "Alt Digikey"
@@ -983,10 +983,10 @@ L Device:R_Small R18
 U 1 1 62AC17BD
 P 7700 3200
 F 0 "R18" H 7759 3246 50  0000 L CNN
-F 1 "4.7k" H 7759 3155 50  0000 L CNN
+F 1 "2.2k" H 7759 3155 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" H 7700 3200 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7700 3200 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-134K7L/13694180" H 7700 3200 50  0001 C CNN "Digikey Page"
+F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-072K2L/727676" H 7700 3200 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 7700 3200 50  0001 C CNN "Rating"
 F 6 "-" H 7700 3200 50  0001 C CNN "Alt Datasheet"
 F 7 "-" H 7700 3200 50  0001 C CNN "Alt Digikey"

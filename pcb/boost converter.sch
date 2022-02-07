@@ -148,10 +148,10 @@ L Device:R_Small R25
 U 1 1 621A4196
 P 7300 3250
 F 0 "R25" H 7350 3350 50  0000 L CNN
-F 1 "1.5M" H 7350 3250 50  0000 L CNN
+F 1 "1M" H 7350 3250 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" H 7300 3250 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7300 3250 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-101M5L/14286567" H 7300 3250 50  0001 C CNN "Digikey Page"
+F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071ML/727445" H 7300 3250 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 7350 3150 50  0000 L CNN "Rating"
 F 6 "-" H 7300 3250 50  0001 C CNN "Alt Datasheet"
 F 7 "-" H 7300 3250 50  0001 C CNN "Alt Digikey"
@@ -163,10 +163,10 @@ L Device:R_Small R26
 U 1 1 621A48ED
 P 7300 4100
 F 0 "R26" H 7350 4200 50  0000 L CNN
-F 1 "13.3k" H 7350 4100 50  0000 L CNN
+F 1 "2.2k" H 7350 4100 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" H 7300 4100 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf" H 7300 4100 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0713K3L/727586" H 7300 4100 50  0001 C CNN "Digikey Page"
+F 4 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-072K2L/727676" H 7300 4100 50  0001 C CNN "Digikey Page"
 F 5 "1/8W" H 7350 4000 50  0000 L CNN "Rating"
 F 6 "-" H 7300 4100 50  0001 C CNN "Alt Datasheet"
 F 7 "-" H 7300 4100 50  0001 C CNN "Alt Digikey"
@@ -287,12 +287,12 @@ U 1 1 62198404
 P 3950 3850
 F 0 "C14" H 4050 3950 50  0000 L CNN
 F 1 "100u" H 4050 3850 50  0000 L CNN
-F 2 "Capacitors_SMD:CP_Elec_6.3x7.7" H 3950 3850 50  0001 C CNN
+F 2 "Capacitors_SMD:CP_Elec_6.3x5.8" H 3950 3850 50  0001 C CNN
 F 3 "https://www.rubycon.co.jp/wp-content/uploads/catalog-aluminum/TZV.pdf" H 3950 3850 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/rubycon/25TZV100M6-3X8/3134865" H 3950 3850 50  0001 C CNN "Digikey Page"
 F 5 "25V" H 4050 3750 50  0000 L CNN "Rating"
-F 6 "https://media.digikey.com/pdf/Data%20Sheets/NextGen%20Components%20PDFs/UT107M025HEJTA.pdf" H 3950 3850 50  0001 C CNN "Alt Datasheet"
-F 7 "https://www.digikey.com/en/products/detail/aillen/UT107M025HEJTA/15282268" H 3950 3850 50  0001 C CNN "Alt Digikey"
+F 6 "https://www.nichicon.co.jp/english/products/pdfs/e-uzs.pdf" H 3950 3850 50  0001 C CNN "Alt Datasheet"
+F 7 "https://www.digikey.com/en/products/detail/nichicon/UZS0J101MCL1GB/2551047" H 3950 3850 50  0001 C CNN "Alt Digikey"
 	1    3950 3850
 	1    0    0    -1  
 $EndComp
