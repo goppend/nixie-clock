@@ -567,7 +567,7 @@ U 1 1 62245E46
 P 2500 1450
 F 0 "D1" V 2850 1850 50  0000 R CNN
 F 1 "KMB22S" V 2750 1850 50  0000 R CNN
-F 2 "Diodes_SMD:Diode_Bridge_MBLS" H 2500 1450 50  0001 C CNN
+F 2 "nixie-clock:Diode-SMC_KMB22S-MBS" H 2500 1450 50  0001 C CNN
 F 3 "http://www.smc-diodes.com/propdf/KMB22S%20THRU%20KMB225S%20N1952%20REV.A.pdf" H 2500 1450 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/smc-diode-solutions/KMB26STR/7898343" H 2500 1450 50  0001 C CNN "Digikey Page"
 F 5 "60V" H 2500 1450 50  0001 C CNN "Rating"
@@ -661,49 +661,35 @@ Text Label 8750 5300 2    50   ~ 0
 GND
 Text Label 7500 4200 0    50   ~ 0
 +5V
-Wire Wire Line
-	4000 5550 3850 5550
-Wire Wire Line
-	4000 5650 3850 5650
-Wire Wire Line
-	4000 5750 3850 5750
-Text Label 4000 5850 0    50   ~ 0
+Text Label 4000 5350 0    50   ~ 0
 BCD_A
-Wire Wire Line
-	4000 5850 3850 5850
 Text Label 3350 4750 2    50   ~ 0
 +5V
-Wire Wire Line
-	3350 4850 3350 4750
 Text Label 3350 6450 2    50   ~ 0
 GND
 Wire Wire Line
-	3350 6350 3350 6450
+	2750 5150 2350 5800
 Wire Wire Line
-	2750 6050 2350 5800
+	2750 5350 2350 5400
 Wire Wire Line
-	2750 5850 2350 5400
+	2750 5550 2350 5200
 Wire Wire Line
-	2750 5650 2350 5200
+	2750 5650 2350 5100
 Wire Wire Line
-	2750 5550 2350 5100
+	2750 5750 2350 5000
 Wire Wire Line
-	2750 5450 2350 5000
+	2750 5850 2350 6100
 Wire Wire Line
-	2750 5350 2350 6100
+	2750 6050 2350 5900
 Wire Wire Line
-	2750 5150 2350 5900
+	2750 5950 2350 6000
 Wire Wire Line
-	2750 5250 2350 6000
+	2750 5250 2350 5500
 Wire Wire Line
-	2750 5950 2350 5500
-Wire Wire Line
-	2750 5750 2350 5300
-Text Label 4000 5750 0    50   ~ 0
+	2750 5450 2350 5300
+Text Label 4000 5450 0    50   ~ 0
 BCD_B
 Text Label 4000 5650 0    50   ~ 0
-BCD_C
-Text Label 4000 5550 0    50   ~ 0
 BCD_D
 Wire Wire Line
 	1800 5700 2000 5700
@@ -774,7 +760,7 @@ U 1 1 6286F750
 P 7750 3700
 F 0 "Y2" V 7796 3612 50  0000 R CNN
 F 1 "32.768 kHz" V 7705 3612 50  0000 R CNN
-F 2 "Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm_HandSoldering" H 7750 3700 50  0001 C CNN
+F 2 "nixie-clock:Crystal-Vectron_VMK3-3.2x1.5" H 7750 3700 50  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Microchip%20PDFs/VMK3-9005-32K7680000_May15_2021.pdf" H 7750 3700 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/microchip-technology/VMK3-9005-32K7680000/13175117?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbXFgA5ZYBOEAXQIAcAXKEAZRYCcBLAOwDmIAL4EALPGghkkdNnxFS4AAw0ATAGYGzNpE48BwsSFoIZqTLgLFIZcWs01tjEK3Zc%2BQ0QTA0KdNKy8tZKdiAqOm56Bl7GBOpgAKyRQZYKNsqa6gB0AOyUAAQA1gASAF5R7voAqvy8LADyKACyOGhYAK7cOD4gALTq5rI8nYq2ZEkMJv0QaXJW48rJkfQi60A" H 7750 3700 50  0001 C CNN "Digikey Page"
 F 5 "±20ppm" H 7750 3700 50  0001 C CNN "Rating"
@@ -1175,41 +1161,6 @@ Wire Wire Line
 Text Label 7200 3150 2    50   ~ 0
 PGED
 NoConn ~ 4450 3650
-$Comp
-L 4xxx:4028 U1
-U 1 1 625F68A2
-P 3350 5650
-F 0 "U1" H 3600 4850 50  0000 C CNN
-F 1 "CD4028" H 3600 4950 50  0000 C CNN
-F 2 "Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 3350 5650 50  0001 C CNN
-F 3 "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4028bms.pdf" H 3350 5650 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/texas-instruments/CD4028BM96/614903" H 3350 5650 50  0001 C CNN "Digikey Page"
-F 5 "18V" H 3350 5650 50  0001 C CNN "Rating"
-F 6 "-" H 3350 5650 50  0001 C CNN "Alt Datasheet"
-F 7 "-" H 3350 5650 50  0001 C CNN "Alt Digikey"
-	1    3350 5650
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	2750 6050 2850 6050
-Wire Wire Line
-	2750 5950 2850 5950
-Wire Wire Line
-	2750 5850 2850 5850
-Wire Wire Line
-	2750 5750 2850 5750
-Wire Wire Line
-	2750 5650 2850 5650
-Wire Wire Line
-	2750 5550 2850 5550
-Wire Wire Line
-	2750 5450 2850 5450
-Wire Wire Line
-	2750 5350 2850 5350
-Wire Wire Line
-	2750 5250 2850 5250
-Wire Wire Line
-	2750 5150 2850 5150
 $Sheet
 S 800  2000 1650 950 
 U 61F4022F
@@ -1479,7 +1430,7 @@ U 1 1 61FD23BB
 P 3950 3750
 F 0 "Y1" H 3950 3950 50  0000 C CNN
 F 1 "8 MHz" H 3950 3850 50  0000 C CNN
-F 2 "Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm_HandSoldering" H 3950 3750 50  0001 C CNN
+F 2 "nixie-clock:Crystal-Abracom_ABM3-5.0x3.2" H 3950 3750 50  0001 C CNN
 F 3 "https://abracon.com/Resonators/abm3.pdf" H 3950 3750 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/abracon-llc/ABM3-8-000MHZ-D2Y-T/2344570" H 3950 3750 50  0001 C CNN "Digikey Page"
 F 5 "±20ppm" H 3950 3750 50  0001 C CNN "Rating"
@@ -1652,4 +1603,53 @@ Wire Wire Line
 	3900 4050 4450 4050
 Wire Wire Line
 	4150 3950 4150 4350
+Wire Wire Line
+	2750 5250 2850 5250
+Wire Wire Line
+	3350 4850 3350 4750
+Wire Wire Line
+	2750 5450 2850 5450
+Wire Wire Line
+	2750 5550 2850 5550
+Wire Wire Line
+	2750 5150 2850 5150
+Wire Wire Line
+	2750 5350 2850 5350
+Wire Wire Line
+	2750 6050 2850 6050
+Wire Wire Line
+	2750 5850 2850 5850
+Wire Wire Line
+	3350 6350 3350 6450
+Wire Wire Line
+	2750 5750 2850 5750
+Wire Wire Line
+	2750 5950 2850 5950
+Wire Wire Line
+	4000 5450 3850 5450
+Wire Wire Line
+	4000 5650 3850 5650
+Wire Wire Line
+	4000 5350 3850 5350
+Wire Wire Line
+	2750 5650 2850 5650
+$Comp
+L 4xxx:4028 U1
+U 1 1 625F68A2
+P 3350 5550
+F 0 "U1" H 3600 4750 50  0000 C CNN
+F 1 "CD4028" H 3600 4850 50  0000 C CNN
+F 2 "Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 3350 5550 50  0001 C CNN
+F 3 "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4028bms.pdf" H 3350 5550 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/texas-instruments/CD4028BM96/614903" H 3350 5550 50  0001 C CNN "Digikey Page"
+F 5 "18V" H 3350 5550 50  0001 C CNN "Rating"
+F 6 "-" H 3350 5550 50  0001 C CNN "Alt Datasheet"
+F 7 "-" H 3350 5550 50  0001 C CNN "Alt Digikey"
+	1    3350 5550
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	4000 5550 3850 5550
+Text Label 4000 5550 0    50   ~ 0
+BCD_C
 $EndSCHEMATC

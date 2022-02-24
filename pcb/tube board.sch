@@ -1169,8 +1169,6 @@ Wire Wire Line
 Wire Wire Line
 	2300 5200 2300 5400
 Connection ~ 2300 5200
-Wire Bus Line
-	2900 4350 9050 4350
 $Comp
 L Transistor_FET:BSS127S Q19
 U 1 1 61F7A06A
@@ -1336,4 +1334,6 @@ F 7 "https://www.digikey.com/en/products/detail/diodes-incorporated/BSS127S-7/34
 	1    7450 4850
 	1    0    0    -1  
 $EndComp
+Wire Bus Line
+	2900 4350 9050 4350
 $EndSCHEMATC
